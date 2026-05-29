@@ -1,0 +1,11 @@
+python-telegram-bot==20.7
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+Pillow==10.2.0
+pyzbar==0.1.9
+requests==2.31.0
+python-barcode==0.15.1
+pytesseract==0.3.10
+rembg==2.0.57
+onnxruntime==1.17.1
+ethiopian-date==1.2.0
